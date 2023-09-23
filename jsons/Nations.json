@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Rhodes Island Pharmaceutical Inc.",
+		"leaderName": "Amiya",
+		"adjective": ["Unknown"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Dr. told me that Rhode Island needs more places to accommodate infected people... I'm sorry",
+		"attacked": "Rhodes, will not give in!",
+		"defeated": "Rhode island... Everyone... I'm sorry... I'm so sorry...",
+		"introduction": "Welcome to Rhode Island!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "",
+		"tradeRequest": "Rhode Island is more than willing to trade with you",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}
+]
