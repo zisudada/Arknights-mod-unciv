@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Rhodes Island Pharmaceutical Inc.",
-		"leaderName": "Amiya",
+		"name": "罗德岛制药",
+		"leaderName": "阿米娅",
 		"adjective": [
 			"Unknown"
 		],
@@ -11,44 +11,44 @@
 		"preferredVictoryType": "Scientific",
 		"startIntroPart1": "",
 		"startIntroPart2": "",
-		"declaringWar": "Dr. told me that Rhode Island needs more places to accommodate infected people... I'm sorry",
-		"attacked": "Rhodes, will not give in!",
-		"defeated": "Rhode island... Everyone... I'm sorry... I'm so sorry...",
-		"introduction": "Welcome to Rhode Island!",
-		"neutralHello": "How are you doing?",
+		"declaringWar": "博士告诉我罗德岛需要更多地方来收纳感染者...抱歉",
+		"attacked": "罗德岛，绝不屈服！",
+		"defeated": "罗德岛...大家...抱歉...真的非常抱歉...",
+		"introduction": "欢迎来到罗德岛！",
+		"neutralHello": "来罗德岛有什么事吗？",
 		"neutralLetsHearIt": [
-			"Go on.",
-			"What do you say?",
-			"You may begin."
+			"请你再说一遍",
+			"不好意思，这个要叫上凯尔希医生一起听",
+			"不好意思，这个要叫上博士一起听"
 		],
 		"neutralNo": [
-			"We absolutely refuse.",
-			"No!",
-			"I refuse."
+			"抱歉，凯尔希医生认为罗德岛现在不需要这些",
+			"抱歉，博士认为罗德岛现在不需要这些",
+			"抱歉 罗德岛现在不需要这些"
 		],
 		"neutralYes": [
-			"Very good.",
-			"Of course, yes.",
-			"That is very good."
+			"真的是太感谢你了",
+			"罗德岛一定会非常感谢你的",
+			"真是太好了"
 		],
-		"hateHello": "What do you want now?",
+		"hateHello": "还需要解释什么吗",
 		"hateLetsHearIt": [
-			"Speak!",
-			"What do you say?",
-			"Go on."
+			"再讲一遍",
+			"请你听听你刚刚在讲什么",
+			"我认为应该没有什么好听的"
 		],
 		"hateNo": [
-			"That is not possible!",
-			"We are not agreeing to that!",
-			"I beg your pardon?"
+			"罗德岛不会再和你们共事了",
+			"请回吧，罗德岛不接受你",
+			"出去"
 		],
 		"hateYes": [
-			"That is fine.",
-			"That is good enough.",
-			"Very well..."
+			"...这应该是我们最后一次共事",
+			"凯尔希医生认为罗德岛可以接受",
+			"博士认为罗德岛可以接受"
 		],
 		"afterPeace": "",
-		"tradeRequest": "Rhode Island is more than willing to trade with you",
+		"tradeRequest": "罗德岛非常乐意与你们共事",
 		"outerColor": [
 			16,
 			16,
@@ -59,9 +59,20 @@
 			200,
 			200
 		],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "原石技艺",
+		"uniques": "[-100]% maintenance costs <for [All] units>",
 		"cities": [
-			"罗德岛"
+			"罗德岛",
+			"罗德岛-分部Ⅰ",
+			"罗德岛-分部Ⅱ",
+			"罗德岛-分部Ⅲ",
+			"罗德岛-分部Ⅳ",
+			"罗德岛-分部Ⅴ",
+			"罗德岛-分部Ⅵ",
+			"罗德岛-分部Ⅶ",
+			"罗德岛-分部Ⅷ",
+			"罗德岛-分部Ⅸ",
+			"罗德岛-分部Ⅹ"
 		]
 	}
 ]

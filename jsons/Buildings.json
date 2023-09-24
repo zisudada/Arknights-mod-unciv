@@ -1,0 +1,21 @@
+[
+	{
+		"name": "罗德岛纪念碑",
+		"isNationalWonder": true,
+		"production": 5,
+		"science": 3,
+		"culture": 7,
+		"cityStrength": 9,
+		"cost": 100,
+		"maintenance": 3,
+		"uniques": [
+			"Empire enter a [10]-turn Golden Age",
+			"Destroyed when the city is captured"
+		],
+		"greatPersonPoint": {
+			"GreatMerchant": 3
+		},
+		"requiredTech": "Industrialization",
+		"quote": "只要把纪念碑立在这里，就可以了吧"
+	}
+]
