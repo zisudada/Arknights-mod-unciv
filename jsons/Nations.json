@@ -60,7 +60,7 @@
 			200
 		],
 		"uniqueName": "原石技艺",
-		"uniques": "[-100]% maintenance costs <for [All] units>",
+		"uniques": ["[-100]% maintenance costs <for [All] units>"],
 		"cities": [
 			"罗德岛",
 			"罗德岛-分部Ⅰ",
